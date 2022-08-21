@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "malloc.h": "c",
+        "user.h": "c",
+        "windows.h": "c",
+        "code.h": "c",
+        "control.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "unistd.h": "c",
+        "texture.h": "c",
+        "glfw3.h": "c",
+        "glad.h": "c",
+        "camera.h": "c",
+        "kazmath.h": "c",
+        "cstdio": "c",
+        "shader.h": "c",
+        "glto.h": "c",
+        "stdarg.h": "c"
+    }
+}
